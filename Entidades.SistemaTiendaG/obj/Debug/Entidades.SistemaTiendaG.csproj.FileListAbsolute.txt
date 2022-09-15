@@ -1,0 +1,6 @@
+C:\Users\gabri\source\repos\SistemaTiendaG\Entidades.SistemaTiendaG\bin\Debug\Entidades.SistemaTiendaG.dll
+C:\Users\gabri\source\repos\SistemaTiendaG\Entidades.SistemaTiendaG\bin\Debug\Entidades.SistemaTiendaG.pdb
+C:\Users\gabri\source\repos\SistemaTiendaG\Entidades.SistemaTiendaG\obj\Debug\Entidades.SistemaTiendaG.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\SistemaTiendaG\Entidades.SistemaTiendaG\obj\Debug\Entidades.SistemaTiendaG.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\SistemaTiendaG\Entidades.SistemaTiendaG\obj\Debug\Entidades.SistemaTiendaG.dll
+C:\Users\gabri\source\repos\SistemaTiendaG\Entidades.SistemaTiendaG\obj\Debug\Entidades.SistemaTiendaG.pdb

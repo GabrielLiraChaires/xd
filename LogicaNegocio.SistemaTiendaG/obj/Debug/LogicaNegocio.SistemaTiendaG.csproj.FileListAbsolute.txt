@@ -1,0 +1,12 @@
+C:\Users\gabri\source\repos\SistemaTiendaG\LogicaNegocio.SistemaTiendaG\bin\Debug\LogicaNegocio.SistemaTiendaG.dll
+C:\Users\gabri\source\repos\SistemaTiendaG\LogicaNegocio.SistemaTiendaG\bin\Debug\LogicaNegocio.SistemaTiendaG.pdb
+C:\Users\gabri\source\repos\SistemaTiendaG\LogicaNegocio.SistemaTiendaG\bin\Debug\AccesoDatos.SistemaTiendaG.dll
+C:\Users\gabri\source\repos\SistemaTiendaG\LogicaNegocio.SistemaTiendaG\bin\Debug\Entidades.SistemaTiendaG.dll
+C:\Users\gabri\source\repos\SistemaTiendaG\LogicaNegocio.SistemaTiendaG\bin\Debug\MySql.Data.dll
+C:\Users\gabri\source\repos\SistemaTiendaG\LogicaNegocio.SistemaTiendaG\bin\Debug\AccesoDatos.SistemaTiendaG.pdb
+C:\Users\gabri\source\repos\SistemaTiendaG\LogicaNegocio.SistemaTiendaG\bin\Debug\Entidades.SistemaTiendaG.pdb
+C:\Users\gabri\source\repos\SistemaTiendaG\LogicaNegocio.SistemaTiendaG\obj\Debug\LogicaNegocio.SistemaTiendaG.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\SistemaTiendaG\LogicaNegocio.SistemaTiendaG\obj\Debug\LogicaNegocio.SistemaTiendaG.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\SistemaTiendaG\LogicaNegocio.SistemaTiendaG\obj\Debug\LogicaNegocio.SistemaTiendaG.csproj.CopyComplete
+C:\Users\gabri\source\repos\SistemaTiendaG\LogicaNegocio.SistemaTiendaG\obj\Debug\LogicaNegocio.SistemaTiendaG.dll
+C:\Users\gabri\source\repos\SistemaTiendaG\LogicaNegocio.SistemaTiendaG\obj\Debug\LogicaNegocio.SistemaTiendaG.pdb

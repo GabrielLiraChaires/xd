@@ -1,0 +1,10 @@
+C:\Users\gabri\source\repos\SistemaTiendaG\AccesoDatos.SistemaTiendaG\bin\Debug\AccesoDatos.SistemaTiendaG.dll
+C:\Users\gabri\source\repos\SistemaTiendaG\AccesoDatos.SistemaTiendaG\bin\Debug\AccesoDatos.SistemaTiendaG.pdb
+C:\Users\gabri\source\repos\SistemaTiendaG\AccesoDatos.SistemaTiendaG\bin\Debug\Entidades.SistemaTiendaG.dll
+C:\Users\gabri\source\repos\SistemaTiendaG\AccesoDatos.SistemaTiendaG\bin\Debug\MySql.Data.dll
+C:\Users\gabri\source\repos\SistemaTiendaG\AccesoDatos.SistemaTiendaG\bin\Debug\Entidades.SistemaTiendaG.pdb
+C:\Users\gabri\source\repos\SistemaTiendaG\AccesoDatos.SistemaTiendaG\obj\Debug\AccesoDatos.SistemaTiendaG.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\SistemaTiendaG\AccesoDatos.SistemaTiendaG\obj\Debug\AccesoDatos.SistemaTiendaG.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\SistemaTiendaG\AccesoDatos.SistemaTiendaG\obj\Debug\AccesoDatos.SistemaTiendaG.csproj.CopyComplete
+C:\Users\gabri\source\repos\SistemaTiendaG\AccesoDatos.SistemaTiendaG\obj\Debug\AccesoDatos.SistemaTiendaG.dll
+C:\Users\gabri\source\repos\SistemaTiendaG\AccesoDatos.SistemaTiendaG\obj\Debug\AccesoDatos.SistemaTiendaG.pdb
